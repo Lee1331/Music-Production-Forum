@@ -1,0 +1,23 @@
+
+#navbar, #navbarDropdown, #navbarSupportedContent > ul.navbar-nav.ml-auto > li.nav-item.dropdown.show > div, #navbarSupportedContent > ul.navbar-nav.ml-auto a.nav-link, #navbar > div > a{
+    background-color: #304E75;
+
+    color: #7CC2CB;
+}
+
+#navbarSupportedContent > ul.navbar-nav.ml-auto > li.nav-item.dropdown.show > div :hover{
+    background-color: #FEFFFF;
+    color: #4AC948;
+}
+#navbarSupportedContent > ul.navbar-nav.ml-auto > li.nav-item.dropdown.show > div a{
+    background-color: #304E75;
+    color: #7CC2CB;
+}
+
+#navbar > div > a, #title{
+    color: #4AC948;
+}
+.hamburger-icon{
+    color: #7CC2CB;
+
+}
